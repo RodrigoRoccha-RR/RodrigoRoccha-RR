@@ -52,8 +52,8 @@ Tenho experiência na **criação de pipelines de dados**, **otimização de con
 <br>
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=RodrigoRoccha-RR&show_icons=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRoccha-RR&layout=compact)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=RodrigoRoccha-RR&show_icons=true&theme=transparent)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRoccha-RR&layout=compact&theme=transparent)
 
 <br>
 <!--
